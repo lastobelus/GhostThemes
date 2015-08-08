@@ -1,16 +1,16 @@
 # Theme CodeIonic
 
-Author - [Sumit Jaju](http://sumitjaju.in) 
+Author - [Sumit Jaju](http://hopkode.ghost.io.in) 
 
 Theme for ghost blogging platform. [ghost.org](http://ghost.org)
 
-To download, visit the [CodeIonic page] (https://github.com/sumitjaju/GhostThemes/tree/master/CodeIonic)
+To download, visit the [CodeIonic page] (https://github.com/hopkode.ghost.io/GhostThemes/tree/master/CodeIonic)
 
 This is how it looks.
 
-![](https://github.com/sumitjaju/GhostThemes/blob/master/CodeIonic/assets/images/codeIonicTP.png)
+![](https://github.com/hopkode.ghost.io/GhostThemes/blob/master/CodeIonic/assets/images/codeIonicTP.png)
 
-Visit [my blog](http://sumitjaju.in/theme-for-ghost-codeionic) to see how to use .
+Visit [my blog](http://hopkode.ghost.io.in/theme-for-ghost-codeionic) to see how to use .
 
 ## Copyright & License
 

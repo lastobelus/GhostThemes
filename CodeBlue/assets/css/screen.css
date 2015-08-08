@@ -640,7 +640,7 @@ margin on the iframe, cause it breaks stuff. */
 .page-description {
     margin: 9px;
     font-size: 17px;
-    line-height: 0.8em;
+    line-height: 1.3em;
     font-family: Varela Round;
     letter-spacing: 0.01rem;
     color: rgba(255,255,255,0.8);

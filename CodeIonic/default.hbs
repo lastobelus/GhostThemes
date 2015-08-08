@@ -16,6 +16,7 @@
 
     {{! Styles'n'Scripts }}
     <link rel="stylesheet" type="text/css" href="{{asset "css/screen.css"}}" />
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:100italic,100,300italic,300,400italic,400,700italic,700,900italic,900" />
     <link href="{{asset "css/ionicons.css"}}" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Josefin+Sans:100italic,100,300italic,300,400italic,400,600italic,600,700italic,700">
@@ -32,7 +33,7 @@
                 <div class="logo">
                     <a href="/">
                       {{#if @blog.logo}}<img alt="Blog Logo" src="{{@blog.logo}}" > {{/if}}
-                      <span id="logoTextPart1">{{@blog.title}}</span> 
+                      <span id="logoTextPart1">Hop</span><span id="logoTextPart2">Kode</span> 
                     </a>
                 </div>
                 <!-- These menus get rendered for desktop - start -->    
@@ -45,7 +46,7 @@
                         </a>
                       </li> 
                       <li>
-                        <a href="mailto:karma@sumitjaju.in?subject=Hello Sumit!">
+                        <a href="mailto:michael.johnston@metafeat.com?subject=Hello from HopKode Visitor!">
                           <i class="icon ion-ios-chatbubble-outline"></i>
                           <p>Say Hi</p>
                         </a>
@@ -60,34 +61,19 @@
                     <footer>
                       <ul>
                         <li>
-                          <a href="https://github.com/sumitjaju" target="_blank">
+                          <a href="https://github.com/lastobelus" target="_blank">
                             <i class="icon ion-social-github-outline"></i>
                             <p>GitHub</p>
                           </a>
                         </li>
                         <li>
-                          <a href="https://twitter.com/jsumeet" target="_blank">
+                          <a href="https://twitter.com/lastobelus" target="_blank">
                             <i class="icon ion-social-twitter-outline"></i>
-                            <p>@jsumeet</p>
-                          </a>
-                        </li>
-                        <li>
-                          <a href="http://sumitjaju.in" target="_blank">
-                            <i class="icon ion-social-googleplus-outline"></i>
-                            <p>sumitjaju.in</p>
+                            <p>@lastobelus</p>
                           </a>
                         </li>
                       </ul>
                     </footer>
-                    <form action="http://codiqa.createsend.com/t/t/s/thodi/" class="email-digest" method="post">
-                      <label for="cm-thodi-thodi">
-                        <p>Sign up for the weekly Learn Digest!</p>
-                      </label>
-                      <div class="digest-wrapper">
-                        <input name="cm-thodi-thodi" placeholder="Email address" required="" type="email">
-                        <input type="submit" value="Go">
-                      </div>
-                    </form>
                     <!-- Display success messsage after user clicks on Go button-->
                       <div class="email-digest-success">
                         <p>Thanks for signing up.</p>
@@ -100,7 +86,7 @@
         
         <header class="cover">
             <div class="mobilelogo">
-                <span id="logoTextPart1">{{@blog.title}}</span> 
+                <span id="logoTextPart1">Hop</span><span id="logoTextPart2">Kode</span> 
                 <a href="/">
                                  
                   {{#if @blog.logo}}<img alt="Blog Logo" src="{{@blog.logo}}" > {{/if}}
@@ -123,7 +109,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:karma@sumitjaju.in?subject=Hello Sumit!" >    
+                            <a href="mailto:michael.johnston@metafeat.com?subject=Hello from HopKode Visitor!" >    
                               <i class="icon ion-ios-chatbubble-outline"></i> Say Hi!
                             </a>
                         </li>  
@@ -134,21 +120,21 @@
                         </li>
                         <hr>
                         <li>
-                            <a href="https://twitter.com/jsumeet" target="_blank">
+                            <a href="https://twitter.com/lastobelus" target="_blank">
                                 <i class="icon ion-social-twitter-outline"></i>    
-                                @jsumeet
+                                @lastobelus
                             </a>
                         </li>
                         <li>
-                            <a href="https://github.com/sumitjaju" target="_blank">
+                            <a href="https://github.com/lastobelus" target="_blank">
                                 <i class="icon ion-social-github-outline"></i>    
                                 GitHub
                             </a>
                         </li>
                         <li>
-                            <a href="http://sumitjaju.in" target="_blank">
+                            <a href="http://hopkode.ghost.io.in" target="_blank">
                                 <i class="icon ion-social-googleplus-outline"></i>    
-                                sumitjaju.in
+                                hopkode.ghost.io.in
                             </a>
                         </li>
 
@@ -172,9 +158,9 @@
                   <span id="expandor" class="expand"></span>
                 </span>
                 <nav id="nav">
-                  <a href="http://sumitjaju.in" target="_blank">sumitjaju.in</a>
-                  <a href="mailto:karma@sumitjaju.in?subject=Hello Sumit!">say hi</a>
-                  <a href="https://github.com/sumitjaju" target="_blank">github</a>
+                  <a href="http://hopkode.ghost.io.in" target="_blank">hopkode.ghost.io.in</a>
+                  <a href="mailto:michael.johnston@metafeat.com?subject=Hello from HopKode Visitor!">say hi</a>
+                  <a href="https://github.com/lastobelus" target="_blank">github</a>
                   <a href="/feed" target="_blank">rss</a>
                 </nav>
             </footer>
@@ -187,7 +173,7 @@
     {{! Ghost outputs important scripts and data with this tag }}
     {{ghost_foot}}
 
-    {{! The main JavaScript file for CodeBlue }}
+    {{! The main JavaScript file for CodeIonic }}
     <script type="text/javascript" src="{{asset "js/jquery.fitvids.js"}}"></script>
     <script type="text/javascript" src="{{asset "js/index.js"}}"></script>
     <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>

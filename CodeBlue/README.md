@@ -1,17 +1,13 @@
 
 # Theme CodeBlue
 
-Author - [Sumit Jaju](http://sumitjaju.in) 
+Author - [Sumit Jaju](http://hopkode.ghost.io.in) 
 
 Theme for ghost blogging platform. [ghost.org](http://ghost.org)
 
-To download, visit the [releases] (https://github.com/sumitjaju/GhostThemes)
+Forked from (https://github.com/hopkode.ghost.io/GhostThemes)
 
-This is how it looks.
-
-![](https://github.com/sumitjaju/GhostThemes/blob/master/CodeBlue/assets/images/CodeBlueThemeTp.png)
-
-Visit [my blog](http://sumitjaju.in/theme-codeblue-for-ghost) to see how to use .
+Visit [Sumit's blog](http://hopkode.ghost.io.in/theme-codeblue-for-ghost) to see how to use .
 
 ## Copyright & License
 
