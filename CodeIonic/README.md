@@ -1,6 +1,6 @@
 # Theme CodeIonic
 
-Author - [Sumit Jaju](http://hopkode.ghost.io.in) 
+Author - [Sumit Jaju](http://hopkode.ghost.io) 
 
 Theme for ghost blogging platform. [ghost.org](http://ghost.org)
 
@@ -10,7 +10,7 @@ This is how it looks.
 
 ![](https://github.com/hopkode.ghost.io/GhostThemes/blob/master/CodeIonic/assets/images/codeIonicTP.png)
 
-Visit [my blog](http://hopkode.ghost.io.in/theme-for-ghost-codeionic) to see how to use .
+Visit [my blog](http://hopkode.ghost.io/theme-for-ghost-codeionic) to see how to use .
 
 ## Copyright & License
 

@@ -1,13 +1,13 @@
 
 # Theme CodeBlue
 
-Author - [Sumit Jaju](http://hopkode.ghost.io.in) 
+Author - [Sumit Jaju](http://hopkode.ghost.io) 
 
 Theme for ghost blogging platform. [ghost.org](http://ghost.org)
 
 Forked from (https://github.com/hopkode.ghost.io/GhostThemes)
 
-Visit [Sumit's blog](http://hopkode.ghost.io.in/theme-codeblue-for-ghost) to see how to use .
+Visit [Sumit's blog](http://hopkode.ghost.io/theme-codeblue-for-ghost) to see how to use .
 
 ## Copyright & License
 
