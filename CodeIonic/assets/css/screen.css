@@ -197,15 +197,13 @@ pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0 0 1.75em 0;
-    border: #e4e4e4 1px solid; 
+    border: #e4e6e8 1px solid; 
     width: 100%;
     padding: 10px;
-    font-family: Inconsolata, monospace, sans-serif;
     font-size: 12px;
     white-space: pre;
     overflow: auto;
-    background: #FFF5EE;
-    border-radius: 0px;
+    border-radius: 2px;
 }
 
 pre code, tt {
@@ -898,10 +896,6 @@ article p .full-img {
     width: 100%;
     max-width: none;
     margin: 0 ;
-}
-
-code .prettyprint {
-   font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
 }
 
 .cta-sub .author-location {
